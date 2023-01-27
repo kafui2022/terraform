@@ -1,0 +1,5 @@
+region ="us-east-1"
+  ami  = "ami-0b5eea76982371e91"
+  keypair ="test1"
+  instance-type = "t2.micro"
+  name = "Jenkins"
